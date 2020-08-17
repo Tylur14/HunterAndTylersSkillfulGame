@@ -839,7 +839,7 @@ GameObject:
   - component: {fileID: 233928368}
   - component: {fileID: 233928367}
   m_Layer: 5
-  m_Name: Image
+  m_Name: StatContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -865,8 +865,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -0, y: -58.600006}
-  m_SizeDelta: {x: -11.089813, y: 100}
+  m_AnchoredPosition: {x: 0.000015258789, y: -270.4}
+  m_SizeDelta: {x: -0.000030517578, y: 270.4001}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &233928367
 MonoBehaviour:
@@ -881,7 +881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.4509804}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -2145,7 +2145,7 @@ GameObject:
   - component: {fileID: 683293237}
   - component: {fileID: 683293236}
   m_Layer: 5
-  m_Name: Image
+  m_Name: CharacterDecal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3284,8 +3284,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 900, y: 1200}
+  m_AnchoredPosition: {x: 0, y: -206}
+  m_SizeDelta: {x: 900, y: 1612.0007}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1188420234
 MonoBehaviour:
