@@ -577,18 +577,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 250474644}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bf5f952f6fe0cc4aaafb62c357d7b85, type: 3}
+  m_Script: {fileID: 11500000, guid: 2460ba0e98c984542b87ef239a60df0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   effectType: 0
   transformType: 1
-  springAmount: 0.005
-  springSpeed: 4.51
-  isActive: 0
-  activeValue: {x: 0, y: 1900, z: 0}
-  inActiveValue: {x: 0, y: 0, z: 0}
-  canSpring: 1
-  localMove: 0
+  speed: 114
+  startValue: {x: 0, y: 0, z: 0}
+  endValue: {x: 0, y: 1850, z: 0}
+  isLocal: 0
+  intervalTime: 3
+  inDebugMode: 1
 --- !u!1 &266407659
 GameObject:
   m_ObjectHideFlags: 0
@@ -1047,15 +1046,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bf5f952f6fe0cc4aaafb62c357d7b85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  effectType: 0
-  transformType: 0
-  springAmount: 0.15
-  springSpeed: 10
-  isActive: 0
-  activeValue: {x: 0, y: 0, z: 0}
-  inActiveValue: {x: 0, y: 0, z: 0}
-  canSpring: 0
-  localMove: 0
 --- !u!114 &460208198
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2170,15 +2160,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3bf5f952f6fe0cc4aaafb62c357d7b85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  effectType: 0
-  transformType: 0
-  springAmount: 0.003
-  springSpeed: 2.05
-  isActive: 0
-  activeValue: {x: 0, y: -13, z: 0}
-  inActiveValue: {x: 0, y: 0, z: 0}
-  canSpring: 1
-  localMove: 0
 --- !u!82 &804211113
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2415,7 +2396,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a0143af94cc764439179d1cbf1f5f5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spring: {fileID: 250474647}
 --- !u!1 &967974923
 GameObject:
   m_ObjectHideFlags: 0
