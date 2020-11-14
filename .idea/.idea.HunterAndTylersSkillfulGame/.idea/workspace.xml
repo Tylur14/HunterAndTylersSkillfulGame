@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../_UnityEditors/2019.4.8f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_ColorFader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/ab/196c308f/Void.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" root0="FORCE_HIGHLIGHTING" />
@@ -117,6 +118,7 @@
       <workItem from="1605232358615" duration="363000" />
       <workItem from="1605232770841" duration="317000" />
       <workItem from="1605288797272" duration="1102000" />
+      <workItem from="1605367813215" duration="1691000" />
     </task>
     <servers />
   </component>
