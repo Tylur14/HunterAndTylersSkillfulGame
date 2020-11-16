@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Entity
+  - Action
+  - Inv_Slot_Filled
+  - Inv_Slot_Empty
   layers:
   - Default
   - TransparentFX

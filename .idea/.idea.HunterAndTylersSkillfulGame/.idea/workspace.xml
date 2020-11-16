@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="aa05f51f-aa07-4061-8d94-4419d1783402" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +31,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../_UnityEditors/2019.4.8f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_ColorFader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/OverworldCursorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GuiTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/ab/196c308f/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Item.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_SmoothMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_SimpleParallax.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_Parallax.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -55,6 +75,16 @@
         <option value="$PROJECT_DIR$/Assets/_Scripts/Player/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_SmoothMove.cs" />
         <option value="$PROJECT_DIR$/Assets/OverworldCursorTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/SimpleHudDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/HudDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/DetailedHudDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Entity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Action.cs" />
+        <option value="$PROJECT_DIR$/Assets/OverworldCursorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GuiTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerInventory.cs" />
       </list>
     </option>
   </component>
@@ -121,7 +151,9 @@
       <workItem from="1605232770841" duration="317000" />
       <workItem from="1605288797272" duration="1102000" />
       <workItem from="1605367813215" duration="1691000" />
-      <workItem from="1605383600812" duration="742000" />
+      <workItem from="1605383600812" duration="743000" />
+      <workItem from="1605397908711" duration="3782000" />
+      <workItem from="1605452167821" duration="8783000" />
     </task>
     <servers />
   </component>
@@ -130,6 +162,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -138,6 +181,10 @@
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state x="1176" y="584" key="#Notifications/62.0.2498.1440@62.0.2498.1440" timestamp="1598566919900" />
+    <state x="1123" y="422" key="RiderGenerateDialog" timestamp="1605466102968">
+      <screen x="75" y="0" width="2485" height="1440" />
+    </state>
+    <state x="1123" y="422" key="RiderGenerateDialog/75.0.2485.1440@75.0.2485.1440" timestamp="1605466102968" />
     <state x="918" y="332" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598538718401">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
