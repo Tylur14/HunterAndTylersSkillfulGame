@@ -14,18 +14,19 @@
             <e p="Effect_Parallax.cs" t="Include" />
             <e p="Effect_SelfDestruct.cs" t="Include" />
             <e p="Effect_SimpleParallax.cs" t="Include" />
+            <e p="JJE_2DLight_Flicker.cs" t="Include" />
             <e p="JJE_SmoothMove.cs" t="Include" />
             <e p="JJE_Spring.cs" t="Include" />
           </e>
           <e p="Entity.cs" t="Include" />
+          <e p="GuiTrigger.cs" t="Include" />
           <e p="HudDisplay.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
           <e p="JimJam_Library.cs" t="Include" />
           <e p="OverworldCursorController.cs" t="Include" />
           <e p="Player.cs" t="Include" />
+          <e p="PlayerInventory.cs" t="Include" />
         </e>
-        <e p="GuiTrigger.cs" t="Include" />
-        <e p="Item.cs" t="Include" />
-        <e p="PlayerInventory.cs" t="Include" />
         <e p="Sprites" t="Include">
           <e p="_Characters" t="Include">
             <e p="readme.txt" t="Include" />
