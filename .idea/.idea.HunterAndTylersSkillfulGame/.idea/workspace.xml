@@ -34,12 +34,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/ab/196c308f/Void.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_2DLight_Flicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Roaming/JimJam/LibraryPackages/JJE_2DLight_Flicker.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_SmoothMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_SimpleParallax.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_Parallax.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_Spring.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -85,9 +85,9 @@
         <option value="$PROJECT_DIR$/Assets/Item.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerInventory.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_2DLight_Flicker.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" />
         <option value="$USER_HOME$/AppData/Roaming/JimJam/LibraryPackages/JJE_2DLight_Flicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_2DLight_Flicker.cs" />
       </list>
     </option>
   </component>
@@ -157,7 +157,8 @@
       <workItem from="1605383600812" duration="743000" />
       <workItem from="1605397908711" duration="3782000" />
       <workItem from="1605452167821" duration="8783000" />
-      <workItem from="1605743958481" duration="1662000" />
+      <workItem from="1605743958481" duration="2314000" />
+      <workItem from="1605830837697" duration="4505000" />
     </task>
     <servers />
   </component>
