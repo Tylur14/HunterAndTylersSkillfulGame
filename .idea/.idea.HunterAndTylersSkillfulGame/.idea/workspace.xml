@@ -38,6 +38,7 @@
     <setting file="file://$USER_HOME$/AppData/Roaming/JimJam/LibraryPackages/JJE_2DLight_Flicker.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_SmoothMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_SimpleParallax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Imported/ParallaxBackground.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_Parallax.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_Spring.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -88,6 +89,7 @@
         <option value="$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" />
         <option value="$USER_HOME$/AppData/Roaming/JimJam/LibraryPackages/JJE_2DLight_Flicker.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_2DLight_Flicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Imported/ParallaxBackground.cs" />
       </list>
     </option>
   </component>
@@ -159,6 +161,7 @@
       <workItem from="1605452167821" duration="8783000" />
       <workItem from="1605743958481" duration="2314000" />
       <workItem from="1605830837697" duration="4505000" />
+      <workItem from="1605918214117" duration="2134000" />
     </task>
     <servers />
   </component>

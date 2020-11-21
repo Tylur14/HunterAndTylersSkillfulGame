@@ -8,6 +8,7 @@ TagManager:
   - Action
   - Inv_Slot_Filled
   - Inv_Slot_Empty
+  - BG_P
   layers:
   - Default
   - TransparentFX
@@ -44,4 +45,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3733859469
+    locked: 0
+  - name: Midground
+    uniqueID: 2636161705
+    locked: 0
+  - name: Foreground
+    uniqueID: 2237291649
     locked: 0
