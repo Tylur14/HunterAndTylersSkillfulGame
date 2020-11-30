@@ -29,18 +29,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/DetailedHudDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../_UnityEditors/2019.4.8f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_ColorFader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Action.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/ab/196c308f/Void.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_2DLight_Flicker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WorldItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Roaming/JimJam/LibraryPackages/JJE_2DLight_Flicker.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_SmoothMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_SimpleParallax.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Imported/ParallaxBackground.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/Effect_Parallax.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_Spring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Imported/LevelMotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerInventory.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,12 +89,17 @@
         <option value="$PROJECT_DIR$/Assets/OverworldCursorController.cs" />
         <option value="$PROJECT_DIR$/Assets/GuiTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Item.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerInventory.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/JimJam_Library.cs" />
         <option value="$USER_HOME$/AppData/Roaming/JimJam/LibraryPackages/JJE_2DLight_Flicker.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_2DLight_Flicker.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/Imported/ParallaxBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Imported/LevelMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Effects/JJE_2DLight_Flicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/WorldItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Action.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerInventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" />
       </list>
     </option>
   </component>
@@ -161,7 +171,9 @@
       <workItem from="1605452167821" duration="8783000" />
       <workItem from="1605743958481" duration="2314000" />
       <workItem from="1605830837697" duration="4505000" />
-      <workItem from="1605918214117" duration="2134000" />
+      <workItem from="1605918214117" duration="2486000" />
+      <workItem from="1605973687333" duration="8735000" />
+      <workItem from="1606062943326" duration="3892000" />
     </task>
     <servers />
   </component>
@@ -202,10 +214,30 @@
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state x="968" y="341" key="run.anything.popup/62.0.2498.1440@62.0.2498.1440" timestamp="1599867900078" />
-    <state x="973" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1600011523613">
-      <screen x="62" y="0" width="2498" height="1440" />
+    <state x="981" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1606073731662">
+      <screen x="75" y="0" width="2485" height="1440" />
     </state>
     <state x="973" y="325" width="672" height="678" key="search.everywhere.popup/62.0.2498.1440@62.0.2498.1440" timestamp="1600011523613" />
     <state x="974" y="325" key="search.everywhere.popup/63.0.2497.1440@63.0.2497.1440" timestamp="1597523151630" />
+    <state x="981" y="325" width="672" height="678" key="search.everywhere.popup/75.0.2485.1440@75.0.2485.1440" timestamp="1606073731662" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/_Scripts/OverworldCursorController.cs" initialLine="25">
+            <startOffsets>
+              <option value="946" />
+            </startOffsets>
+            <endOffsets>
+              <option value="964" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

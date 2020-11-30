@@ -324,7 +324,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -339,7 +339,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -406,7 +406,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -421,7 +421,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -488,7 +488,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -503,7 +503,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -741,7 +741,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -756,7 +756,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -1649,7 +1649,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 451256996638214554}
-  - component: {fileID: 2936804344352894055}
   - component: {fileID: 5347818341904577006}
   m_Layer: 5
   m_Name: Inventory
@@ -1678,46 +1677,6 @@ RectTransform:
   m_AnchoredPosition: {x: 645, y: 52}
   m_SizeDelta: {x: 575, y: 960}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2936804344352894055
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 451256996638214555}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 770d8a59ded5ca744a6e5bcff51dff83, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemSlots:
-  - {fileID: 451256994804899579}
-  - {fileID: 4094955761096309028}
-  - {fileID: 1332347371344178380}
-  - {fileID: 7507966271219392472}
-  - {fileID: 8613520799892045000}
-  - {fileID: 9037216855116828649}
-  - {fileID: 4376854714937717782}
-  - {fileID: 8463730929907727491}
-  - {fileID: 7573555058404071894}
-  - {fileID: 397538894665323162}
-  - {fileID: 1881370265877118968}
-  - {fileID: 6903944697748774238}
-  - {fileID: 2828234265405554200}
-  - {fileID: 8518614500498352491}
-  - {fileID: 4346049097308703033}
-  - {fileID: 3828221020451828927}
-  - {fileID: 8369431453570954869}
-  - {fileID: 3275534901755414908}
-  - {fileID: 397863730344326396}
-  - {fileID: 8835022249074774645}
-  - {fileID: 4588177674888745975}
-  - {fileID: 431363012111212050}
-  - {fileID: 5510573751394690559}
-  - {fileID: 6222209468889679673}
-  - {fileID: 4187655783170905464}
-  items: []
-  debugAddItem: {fileID: 0}
 --- !u!114 &5347818341904577006
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2438,7 +2397,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -2453,7 +2412,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -2728,7 +2687,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -2743,7 +2702,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -3596,7 +3555,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -3611,7 +3570,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -4020,7 +3979,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -4035,7 +3994,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -4250,7 +4209,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -4265,7 +4224,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -4540,7 +4499,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -4555,7 +4514,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -4756,7 +4715,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -4771,7 +4730,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -4838,7 +4797,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -4853,7 +4812,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -4994,7 +4953,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -5009,7 +4968,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -5210,7 +5169,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -5225,7 +5184,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -5892,7 +5851,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -5907,7 +5866,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -6344,7 +6303,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -6359,7 +6318,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -7124,7 +7083,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -7139,7 +7098,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -7710,7 +7669,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -7725,7 +7684,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -7940,7 +7899,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -7955,7 +7914,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -8808,7 +8767,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -8823,7 +8782,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -8890,7 +8849,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -8905,7 +8864,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -9106,7 +9065,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -9121,7 +9080,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -9604,7 +9563,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -9619,7 +9578,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -9820,7 +9779,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -9835,7 +9794,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:
@@ -10110,7 +10069,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ProcessMouseOverSlot
           m_Mode: 2
           m_Arguments:
@@ -10125,7 +10084,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2936804344352894055}
+        - m_Target: {fileID: 0}
           m_MethodName: ClearMouseOverSlot
           m_Mode: 1
           m_Arguments:

@@ -13,6 +13,8 @@ public class Item : ScriptableObject
         Weapon,
         Armor
     }
+    // Item Type
+    public ItemType type;
     
     // What's needed for display box
     [SerializeField] private string itemName;

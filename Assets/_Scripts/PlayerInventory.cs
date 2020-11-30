@@ -26,17 +26,11 @@ public class PlayerInventory : MonoBehaviour
     [SerializeField] private Item debugAddItem;
 
     private int _slotsFree;
-    
-    private void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.Alpha9))
-            Debug_AddTestItem();
-    }
 
-    void Debug_AddTestItem()
+    public void Debug_AddTestItem(Item incItem)
     {
         itemSlots[0].tag = "Inv_Slot_Filled"; // works
-        var info = debugAddItem.GetInvDisplayInfo(); // works
+        var info = incItem.GetInvDisplayInfo(); // works
         itemSlots[0].transform.GetChild(1).GetComponent<Image>().sprite = info.Item1; // fails because it grabs the bg sprite, attempting hardcode fix
     }
 

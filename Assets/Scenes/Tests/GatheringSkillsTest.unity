@@ -1445,9 +1445,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99320aff08ef8774abb4ab7b5d11bd54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetLight: {fileID: 0}
+  flickerType: 0
+  duration: 0.15
   snapSpeed: 5
   retractSpeed: 5
+  snapFlicker: -5
+  pulseSpeed: 0
   flickerRateRange: {x: 0.01, y: 2}
   flickerIntensityRange: {x: 0.45, y: 1.25}
   snapEvents:
@@ -1465,10 +1468,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  testFlicker: -5
   elapsedTime: 0
   ratio: 0
-  duration: 0.15
 --- !u!114 &916443471
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1481,9 +1482,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99320aff08ef8774abb4ab7b5d11bd54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetLight: {fileID: 0}
+  flickerType: 0
+  duration: 0.15
   snapSpeed: 5
   retractSpeed: 5
+  snapFlicker: -5
+  pulseSpeed: 0
   flickerRateRange: {x: 0.01, y: 2}
   flickerIntensityRange: {x: 0.45, y: 1.25}
   snapEvents:
@@ -1501,10 +1505,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  testFlicker: -5
   elapsedTime: 0
   ratio: 0
-  duration: 0.15
 --- !u!1 &1030970662
 GameObject:
   m_ObjectHideFlags: 0
@@ -1663,8 +1665,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1111028209}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.57, y: -5.34, z: 0}
-  m_LocalScale: {x: 37.521896, y: 4.1691, z: 4.1691}
+  m_LocalPosition: {x: -25.004, y: -5.34, z: 0}
+  m_LocalScale: {x: 20.390274, y: 4.1691, z: 4.1691}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 19
@@ -1775,7 +1777,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -1959,7 +1961,7 @@ GameObject:
   - component: {fileID: 1192958014}
   - component: {fileID: 1192958013}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Tundur
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1977,7 +1979,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 749c976ce64a8524b9e4e78db5946118, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
